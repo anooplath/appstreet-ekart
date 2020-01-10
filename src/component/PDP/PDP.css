@@ -1,0 +1,16 @@
+.slick-prev:before, .slick-next:before{
+    color: black;
+}
+.btn.active{
+    color: white !important;
+}
+
+.btn.active{
+    color: white !important;
+}
+
+.seperator{
+    border-bottom: 1px solid whitesmoke;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}

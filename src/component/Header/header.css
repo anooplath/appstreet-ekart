@@ -1,0 +1,61 @@
+*{
+    font-family: sans-serif;
+  }
+  main.container{
+    height: 300px;
+  }
+  .site-header{
+    height: 50px;
+  }
+  .site-header h1{
+    color: #000;
+    font-size: 20px
+  }
+  a.active{
+      cursor: pointer;
+      text-decoration: none;
+  }
+
+
+  main h1{
+    color:#2b416c;
+    font-weight: bold
+  }
+  .custom-tabs.nav-tabs .nav-link, .custom-tabs.nav-tabs.active{
+    border: none;
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  .custom-tabs.nav-tabs .nav-link.active{
+    color: #83a515;
+    border-bottom: 5px solid #83a515;
+  }
+  
+  .custom-table{
+    border: 1px solid #f1f1f4;
+    color: #2b416c;
+  }
+  
+  .btn, span, time{
+    color: #6c757d !important;
+  }
+  
+  thead tr{
+    background: #d1d1df;
+    color: #2b416c;
+  }
+  thead tr th{
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  
+  .figure-caption {
+    float: right;
+    margin-left: 10px;
+  }
+  .modal-btn{
+    width: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+    color: white !important;
+  }

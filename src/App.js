@@ -1,25 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import HeaderComponent from './component/Header/HeaderComponent'
+import PLP from './container/PLP/PLP'
+import PDP from './container/PDP/PDP'
+import {Route, BrowserRouter as Router, Switch} from 'react-router-dom'
+// import MainComponent from './Main'
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <React.Fragment>
+      <Router>
+        <HeaderComponent/>
+      <Switch>
+      <main>
+        <div className="container">
+          <Route exact path="/"component={PLP}/>
+          <Route exact path="/products/:id" component={PDP}/>
+        </div>
+        </main>
+        </Switch>
+        </Router>
+      </React.Fragment>
   );
 }
 

@@ -1,0 +1,15 @@
+.plp-image{
+    height: 220px;
+    width: 100%;
+}
+.plp-tile{
+    padding-bottom: 40px;
+}
+.loadMore{
+    margin: 0 auto;
+    display: block !important;
+}
+.btn, span, time {
+    color: #fff !important;
+}
+
