@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f865ed4c87388f4fb8b1f42d04b99856",
+    "revision": "4a042259354af1b1d0e93ceaf09b46e1",
     "url": "/appstreet-ekart/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appstreet-ekart/static/css/2.13d70b4c.chunk.css"
   },
   {
-    "revision": "fc53d33323cf8397bf12",
+    "revision": "0e4fd6c3187597441734",
     "url": "/appstreet-ekart/static/css/main.83d781fe.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/appstreet-ekart/static/js/2.8dbaa5c8.chunk.js.LICENSE"
   },
   {
-    "revision": "fc53d33323cf8397bf12",
-    "url": "/appstreet-ekart/static/js/main.8c833a02.chunk.js"
+    "revision": "0e4fd6c3187597441734",
+    "url": "/appstreet-ekart/static/js/main.912c5b50.chunk.js"
   },
   {
     "revision": "4bfd07ae7da03a9db206",

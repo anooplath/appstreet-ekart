@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/appstreet-ekart/static/css/main.83d781fe.chunk.css",
-    "main.js": "/appstreet-ekart/static/js/main.8c833a02.chunk.js",
-    "main.js.map": "/appstreet-ekart/static/js/main.8c833a02.chunk.js.map",
+    "main.js": "/appstreet-ekart/static/js/main.912c5b50.chunk.js",
+    "main.js.map": "/appstreet-ekart/static/js/main.912c5b50.chunk.js.map",
     "runtime-main.js": "/appstreet-ekart/static/js/runtime-main.49ffde00.js",
     "runtime-main.js.map": "/appstreet-ekart/static/js/runtime-main.49ffde00.js.map",
     "static/css/2.13d70b4c.chunk.css": "/appstreet-ekart/static/css/2.13d70b4c.chunk.css",
     "static/js/2.8dbaa5c8.chunk.js": "/appstreet-ekart/static/js/2.8dbaa5c8.chunk.js",
     "static/js/2.8dbaa5c8.chunk.js.map": "/appstreet-ekart/static/js/2.8dbaa5c8.chunk.js.map",
     "index.html": "/appstreet-ekart/index.html",
-    "precache-manifest.fd60b337d638bdbf7bce7e7c9d23d2cd.js": "/appstreet-ekart/precache-manifest.fd60b337d638bdbf7bce7e7c9d23d2cd.js",
+    "precache-manifest.283d7efa74a22efa6dac23eed4762228.js": "/appstreet-ekart/precache-manifest.283d7efa74a22efa6dac23eed4762228.js",
     "service-worker.js": "/appstreet-ekart/service-worker.js",
     "static/css/2.13d70b4c.chunk.css.map": "/appstreet-ekart/static/css/2.13d70b4c.chunk.css.map",
     "static/css/main.83d781fe.chunk.css.map": "/appstreet-ekart/static/css/main.83d781fe.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.13d70b4c.chunk.css",
     "static/js/2.8dbaa5c8.chunk.js",
     "static/css/main.83d781fe.chunk.css",
-    "static/js/main.8c833a02.chunk.js"
+    "static/js/main.912c5b50.chunk.js"
   ]
 }
